@@ -18,6 +18,7 @@ Focusing on both the classification and regression, I have selected following da
     	5) Human Resource Data Set<br/>
     	6) New York stock exchange data<br/>
     	7) Deep fake detection<br/>
+        8) Diabetes detection :heavy_check_mark:<br/>
         
 <b>Classification</b><br/>
 First, if you have a classification problem “which is predicting the class of a given input”.<br/><br/>
